@@ -3,7 +3,7 @@
 .zcdh ul li {padding: 13px 0 13px 25px;height: 25px;border-bottom: 1px solid #e88;}
 .zcdh ul li:last-child {border-bottom: 0;}
 .zcdh ul li:hover .tchuang {display: block;}
-.zcdh ul li h5 {font-weight: normal;line-height: 25px;}.zcdh ul li h5 em {float: left;width: 22px;height: 22px;margin: 4px 2px 0 0;background: url(https://pic.byzhihuo.com/ban/pot.png) no-repeat;}
+.zcdh ul li h5 {font-weight: normal;line-height: 25px;}.zcdh ul li h5 em {float: left;width: 22px;height: 22px;margin: 4px 2px 0 0;background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) no-repeat;}
 .zcdh ul li h5 em.yxms {background-position: 0px -41px;}
 .zcdh ul li h5 em.mhzq {background-position: -22px -41px;}
 .zcdh ul li h5 em.chzq {background-position: -45px -41px;}
@@ -12,11 +12,11 @@
 .zcdh ul li h5 em.yysc {background-position: -119px -41px;}
 .zcdh ul li h5 span {display: block;float: left;font-size: 16px;color: #fff;}
 .tchuang {border: 7px solid rgba(168, 204, 212, 0.45);padding: 10px 10px 0;background: #fff;position: absolute;left: 200px;top: 0;width: 701px;height: 358px;border-radius: 0 50px 0 35px;display: none;}
-.zcdh ul li h5 i {float: right;display: block;width: 6px;height: 11px;margin: 7px 20px 0 0;background: url(https://pic.byzhihuo.com/ban/pot.png) -154px -69px no-repeat;}
+.zcdh ul li h5 i {float: right;display: block;width: 6px;height: 11px;margin: 7px 20px 0 0;background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -154px -69px no-repeat;}
 .tchuangtu {margin: 0 25px;margin-bottom: 10px;float: left;}
 .tchuangtu h3 {line-height: 30px;border-bottom: #e2e2e2 1px solid;}
 .tchuangtu h3 a {font-size: 14px;}
-.byinnertxts a span {width: 183px;height: 72px;display: block;background:url(https://pic.byzhihuo.com/ban/potala.jpg) no-repeat;}
+.byinnertxts a span {width: 183px;height: 72px;display: block;background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/potala.jpg) no-repeat;}
 .byinnertxts a span.yxyh {background-position: 0px 0px;}
 .byinnertxts a span.ctmx {background-position: -183px 0px;}
 .byinnertxts a span.u3d {background-position: -366px 0px;}
@@ -68,16 +68,16 @@
 .bx-pager-item .active{background:#ffd713;color:#ffd713;}
 .bx-controls-direction{display:none;}
 .bx-controls-auto,.bx-controls-auto-item{float:left;}
-.bx-wrapper .bx-controls-auto .bx-start{display:block;text-indent:-9999px;width:10px;height:11px;outline:0;background:url(https://pic.byzhihuo.com/ban/pot.png) -162px -50px no-repeat;margin:0 3px;float:left;}
+.bx-wrapper .bx-controls-auto .bx-start{display:block;text-indent:-9999px;width:10px;height:11px;outline:0;background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -162px -50px no-repeat;margin:0 3px;float:left;}
 .bx-wrapper .bx-controls-auto .bx-start:hover,.bx-wrapper .bx-controls-auto .bx-start.active{background-position:-162px -39px;}
-.bx-wrapper .bx-controls-auto .bx-stop{display:block;float:left;text-indent:-9999px;width:9px;height:11px;outline:0;background:url(https://pic.byzhihuo.com/ban/pot.png) -162px -83px no-repeat;margin:0 3px;}
+.bx-wrapper .bx-controls-auto .bx-stop{display:block;float:left;text-indent:-9999px;width:9px;height:11px;outline:0;background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -162px -83px no-repeat;margin:0 3px;}
 .bx-wrapper .bx-controls-auto .bx-stop:hover,.bx-wrapper .bx-controls-auto .bx-stop.active{background-position:-162px -72px;}
 .byhy {width: 257px;height: 329px;float: right;border: 1px solid #f3f3f3;position: relative;}
 .bylh {text-align: center;width: 257px;float: right;}
 .bytouxiang {width: 106px;height: 106px;border-radius: 100%;margin: 0 auto;}
 .bytouxiang img{width: 100px;height: 100px;border-radius: 25%;padding:3px; background:#fff;margin-top: 5px;transition: All 0.4s ease-in-out;-webkit-transition: All 0.4s ease-in-out;-moz-transition: All 0.4s ease-in-out;-o-transition: All 0.4s ease-in-out;}
 .bytouxiang img:hover{transform: rotateX(360deg);-webkit-transform: rotateX(360deg);-moz-transform: rotateX(360deg);}
-.yktouxiang img{display: block;margin: 0 auto; width: 100px;height: 100px;border-radius: 25%;padding:3px; background:url(https://pic.byzhihuo.com/ban/pot.png) 3px -61px no-repeat;margin-top: 5px;transition: All 0.4s ease-in-out;-webkit-transition: All 0.4s ease-in-out;-moz-transition: All 0.4s ease-in-out;-o-transition: All 0.4s ease-in-out;}
+.yktouxiang img{display: block;margin: 0 auto; width: 100px;height: 100px;border-radius: 25%;padding:3px; background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) 3px -61px no-repeat;margin-top: 5px;transition: All 0.4s ease-in-out;-webkit-transition: All 0.4s ease-in-out;-moz-transition: All 0.4s ease-in-out;-o-transition: All 0.4s ease-in-out;}
 .yktouxiang img:hover{transform: rotateX(360deg);-webkit-transform: rotateX(360deg);-moz-transform: rotateX(360deg);}
 .bylinfo {font-weight: bold;list-style: none;}
 .bylinfo li {font-size: 14px;color: #756767;top: 208px;right: 60px;position: absolute;}
@@ -91,21 +91,21 @@
 .byhuanying span {color: #666;}
 .byhyinfo {margin: 15px 0;}
 .byhyinfo a{ padding:0 0 0 18px; font-size:12px; color:#7b7b7b; transition: 0.5s all;}
-.byhyinfo a.byxiaoxi{ background:url(https://pic.byzhihuo.com/ban/pot.png) -175px 2px no-repeat; }
-.byhyinfo a.byxiaoxi:hover{ background:url(https://pic.byzhihuo.com/ban/pot.png) -175px -16px no-repeat;color:#f03;}
-.byhyinfo a.bytixing{ background:url(https://pic.byzhihuo.com/ban/pot.png) -175px -111px no-repeat;}
-.byhyinfo a.bytixing:hover{ background:url(https://pic.byzhihuo.com/ban/pot.png) -175px -128px no-repeat;color:#f03;}
-.byhyinfo a.bygerenzx{ background:url(https://pic.byzhihuo.com/ban/pot.png) -176px -74px no-repeat;}
-.byhyinfo a.bygerenzx:hover{ background:url(https://pic.byzhihuo.com/ban/pot.png) -176px -91px no-repeat;color:#f03;}
-.byhyinfo a.bytuichua{background:url(https://pic.byzhihuo.com/ban/pot.png) -175px -36px no-repeat;}
-.byhyinfo a.bytuichua:hover{ background:url(https://pic.byzhihuo.com/ban/pot.png) -175px -53px no-repeat; color:#f03;}
+.byhyinfo a.byxiaoxi{ background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -175px 2px no-repeat; }
+.byhyinfo a.byxiaoxi:hover{ background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -175px -16px no-repeat;color:#f03;}
+.byhyinfo a.bytixing{ background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -175px -111px no-repeat;}
+.byhyinfo a.bytixing:hover{ background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -175px -128px no-repeat;color:#f03;}
+.byhyinfo a.bygerenzx{ background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -176px -74px no-repeat;}
+.byhyinfo a.bygerenzx:hover{ background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -176px -91px no-repeat;color:#f03;}
+.byhyinfo a.bytuichua{background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -175px -36px no-repeat;}
+.byhyinfo a.bytuichua:hover{ background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -175px -53px no-repeat; color:#f03;}
 .bymc_subs {width: 250px;height: auto;border-top:#F5F5F5 1px solid;padding-top: 12px;margin: 0 auto;}
 .bymc_subs ul li {width: 50px;float: left;}
 .bymc_subs ul li img {display: block;margin: 0 auto 3px auto;}
 .bymc_subs ul li a{color: #7b7b7b; font-size:12px;}
 .bymc_subs ul li a:hover{ color:#f03;}
 .bymc_subs ul li a:hover span{ opacity:0.8;}
-.bymc_subs ul li a p{padding-top: 15px;}.bymc_subs ul li a span.fatie{background: url(https://pic.byzhihuo.com/ban/pot.png) -0px 13px no-repeat;padding: 15px;}.bymc_subs ul li a span.wotie{background: url(https://pic.byzhihuo.com/ban/pot.png) -40px 13px no-repeat;padding: 15px;}.bymc_subs ul li a span.renwu{background: url(https://pic.byzhihuo.com/ban/pot.png) -79px 13px no-repeat;padding: 15px;}.bymc_subs ul li a span.shoucang{background: url(https://pic.byzhihuo.com/ban/pot.png) -119px 13px no-repeat;padding: 15px;}.bymc_subs ul li a span.qiandao{background: url(https://pic.byzhihuo.com/ban/pot.png) -104px -51px no-repeat;padding: 15px;}
+.bymc_subs ul li a p{padding-top: 15px;}.bymc_subs ul li a span.fatie{background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -0px 13px no-repeat;padding: 15px;}.bymc_subs ul li a span.wotie{background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -40px 13px no-repeat;padding: 15px;}.bymc_subs ul li a span.renwu{background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -79px 13px no-repeat;padding: 15px;}.bymc_subs ul li a span.shoucang{background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -119px 13px no-repeat;padding: 15px;}.bymc_subs ul li a span.qiandao{background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -104px -51px no-repeat;padding: 15px;}
 .deannewtitle {height: 38px;line-height: 38px;border-bottom: 2px solid #ccc;padding-top: 3px;width: 1180px;margin: 0 auto;}
 .deannewtitle span {display: block;float: left;height: 38px;border-bottom: 2px solid #FF4F1D;color: #4DC0ED;font-size: 25px;}
 .deannewtitle b {height: 23px;line-height: 23px;display: block;background: #F1B002;color: #fff;font-size: 14px;float: left;padding: 0 10px;margin-left: 20px;margin-top: 7px;font-weight: normal;}
@@ -125,14 +125,14 @@
 .deancel {float: left;width: 870px;}
 .deancediv {width: 270px;margin-right: 20px;float: left;}
 .deancetitle {height: 26px;line-height: 26px;background: #888472;color: #fff;}
-.deancetitle span {display: block;float: left;background: url(https://pic.byzhihuo.com/ban/pot.png) no-repeat -100px -101px;width: 16px;height: 14px;margin: 6px 8px;}
+.deancetitle span {display: block;float: left;background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) no-repeat -100px -101px;width: 16px;height: 14px;margin: 6px 8px;}
 .deancetitle b {float: left;font-size: 15px;font-weight: normal;}
-.deancetitle a {float: right;background: url(https://pic.byzhihuo.com/ban/pot.png) no-repeat -117px -103px;width: 11px;height: 12px;margin: 8px 8px;}
+.deancetitle a {float: right;background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) no-repeat -117px -103px;width: 11px;height: 12px;margin: 8px 8px;}
 .deancediv ul li .deanliname {height: 38px;line-height: 38px;}
 .deanlicontent{display:none;margin-top:2px;background:#0FB3BA;}
 .deanlicontentcl{width:150px;float:left;}
 .deanlicontentcc{float:right;width:100px;padding:10px;height:130px;overflow:hidden;position:relative;color:#fff;font-size:14px;line-height:22px;}
-.deanlicontentcc a{width:42px;height:42px;display:block;background:url(https://pic.byzhihuo.com/ban/pot.png) -100px -122px no-repeat;overflow:hidden;position:absolute;right:10px;bottom:10px;}
+.deanlicontentcc a{width:42px;height:42px;display:block;background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -100px -122px no-repeat;overflow:hidden;position:absolute;right:10px;bottom:10px;}
 .deancediv ul li .deanliname{height:38px;line-height:38px;}
 .deancediv ul li .deanliname span{display:block;width:22px;height:38px;text-align:center;line-height:38px;font-size:12px;color:#999;float:left;}
 .deancediv ul li .deanliname a{font-size:14px;color:#222;display:block;width:190px;height:38px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;margin-left:5px;float:left;}
@@ -141,8 +141,8 @@
 .deancediv ul li .deanboxlihover{background:#f4f4f5;}
 .deancediv ul li .deanboxlihover span{background:#f43838;color:#fff;}
 .deancer {float: right;width: 300px;}
-.deancer ul li {margin-top: 18px;height: 80px;width: 300px;}.deancead a span {background: url(https://pic.byzhihuo.com/ban/potala.jpg) no-repeat -732px 0px;width: 300px;height: 250px;display:block;}.deancer ul li a span {background: url(https://pic.byzhihuo.com/ban/potala.jpg) no-repeat;width: 300px;height: 80px;display:block;}.deancer ul li a span.zbgl {background-position: -732px -250px;}.deancer ul li a span.fxtg {background-position: -732px -330px;}.deancer ul li a span.fxjc {background-position: -732px -410px;}	
-.deanad {width: 1180px;margin: 15px auto;}.ycad {width: 1180px;margin: 15px auto;}.ycad a span {background: url(https://pic.byzhihuo.com/ban/potala.jpg) no-repeat 0px -576px;width: 1180px;height: 112px;display: block;}
+.deancer ul li {margin-top: 18px;height: 80px;width: 300px;}.deancead a span {background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/potala.jpg) no-repeat -732px 0px;width: 300px;height: 250px;display:block;}.deancer ul li a span {background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/potala.jpg) no-repeat;width: 300px;height: 80px;display:block;}.deancer ul li a span.zbgl {background-position: -732px -250px;}.deancer ul li a span.fxtg {background-position: -732px -330px;}.deancer ul li a span.fxjc {background-position: -732px -410px;}	
+.deanad {width: 1180px;margin: 15px auto;}.ycad {width: 1180px;margin: 15px auto;}.ycad a span {background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/potala.jpg) no-repeat 0px -576px;width: 1180px;height: 112px;display: block;}
 .deanpubtop span {display: block;float: left;height: 38px;border-bottom: 2px solid #FF4F1D;color: #4DC0ED;font-size: 25px;}
 .w1180 {width: 1180px;margin: 0 auto;}
 .deanpubtop {height: 38px;border-bottom: 2px solid #ccc;margin-bottom: 15px;}
@@ -167,9 +167,9 @@
 .deanpick{float:left;width:400px;margin-left:30px;}
 .deanrank{width:352px;float:right;}.deannewsc i{height:26px;font-size:18px;color:#333;}
 .deannewsc i span{display:inline-block;width:18px;height:18px;margin-right:5px;vertical-align:middle;}
-.deanlatest i span{background:url(https://pic.byzhihuo.com/ban/pot.png) -132px -102px no-repeat;}
-.deanpick i span{background:url(https://pic.byzhihuo.com/ban/pot.png) -153px -100px no-repeat;}
-.deanrank i span{background:url(https://pic.byzhihuo.com/ban/pot.png) -175px -146px no-repeat;}
+.deanlatest i span{background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -132px -102px no-repeat;}
+.deanpick i span{background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -153px -100px no-repeat;}
+.deanrank i span{background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -175px -146px no-repeat;}
 .deanlatest ul{}.deanlatest ul li{height:100px;margin-top:15px;}
 .deanlatestimg{float:left;width:150px;height:100px;overflow:hidden;position:relative;}
 .deanimgcover{width:150px;height:100px;background:rgba(0,0,0,0.4);display:block;position:absolute;left:0;bottom:0;display:none;}.deanlatestinfo{float:right;width:200px;}
@@ -186,7 +186,7 @@
 .deanpickul li .deanlatestnum{float:left;margin-top:5px;margin-left:10px;}
 .deanrank ul{margin-top:10px;}
 .deanrank ul li{height:45px;line-height:45px;border-bottom:1px solid #f3f3f3;}
-.deanrank ul li span{display:block;width:23px;height:20px;line-height:20px;float:left;color:#fff;padding-right:5px;font-size:14px;background:url(https://pic.byzhihuo.com/ban/pot.png) -143px -119px no-repeat;text-align:center;margin-top:13px;}
+.deanrank ul li span{display:block;width:23px;height:20px;line-height:20px;float:left;color:#fff;padding-right:5px;font-size:14px;background:url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -143px -119px no-repeat;text-align:center;margin-top:13px;}
 .deanrank ul li a{font-size:15px;display:block;float:left;margin-left:10px;width:310px;color:#333;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;}
 .deanrank ul li a:hover{color:#4cc9ed;}
 .deanrank ul li span.deanorder1,.deanrank ul li span.deanorder2,.deanrank ul li span.deanorder3{background-position:-143px -141px;}
@@ -196,4 +196,4 @@
 .deanlink1 ul li {font-size: 13px;float: left;}
 .deanlink1 ul li a {float: left;color: #9f9f9f;padding: 0 5px;}
 .deannewtitle a.deanseemore {color: #999;float: right;}
-.deannewtitle a.deanseemore i {display: inline-block;width: 11px;height: 11px;background: url(https://pic.byzhihuo.com/ban/pot.png) -149px -40px no-repeat;margin-left: 3px;}
+.deannewtitle a.deanseemore i {display: inline-block;width: 11px;height: 11px;background: url(https://cdn.jsdelivr.net/gh/byzhihuo/by/tp/img/pot.png) -149px -40px no-repeat;margin-left: 3px;}
